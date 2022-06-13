@@ -1,0 +1,30 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+
+.whole{
+  margin-top: 160px;
+  width: 270px;
+  height: 400px;
+  padding-top: 20px;
+  border-radius: 15px;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.stat1{
+  width: 230px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.stat2{
+  width: 230px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.qr-code{
+  border-radius: 15px;
+}
